@@ -1,0 +1,69 @@
+body {
+	margin: 0;
+}
+
+nav {
+	background-color: #FFDEAD;
+}
+
+.nav-link {
+	color: #8B4513;
+	font-weight: 600;
+}
+
+header {
+	background-image: url('nathan-dumlao-pMW4jzELQCw-unsplash.jpg');
+	background-size: cover;
+	height: 100vh;
+	background-position: center;
+    text-align: center;
+}
+
+.header-back {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.header-text {
+	height: 100%;
+	font-family: monospace;
+	font-size: 40px;
+	padding-top: 40vh;
+	color: #FFDEAD;
+}
+
+.news-page {
+	margin-top: 0;
+	background-color: #FFDEAD;
+	padding: 15px;
+}
+
+
+div.card {
+    width: 350px;
+    background-color: #8B4513;
+    margin: 10px 15px 10px;
+    padding: 12px;
+    text-align: center;
+    color: #FFDEAD;
+    font-size: 24px;
+    display: inline-block;
+}
+
+.coffee-photo {
+	width: 326px;
+}
+
+.coffee-inst {
+	color:  #FFDEAD;
+	text-decoration: none;
+}
+
+footer {
+	text-align: center;
+	background-color: #8B4513;
+	height: 100px;
+	padding-top: 40px;
+	color: #FFDEAD;
+}
