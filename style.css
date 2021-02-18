@@ -48,7 +48,8 @@ div.card {
     text-align: center;
     color: #FFDEAD;
     font-size: 24px;
-    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .coffee-photo {
